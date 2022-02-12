@@ -3,6 +3,7 @@
 
 
 "@ampproject/remapping@^2.0.0":
+
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@ampproject/remapping/-/remapping-2.1.0.tgz#72becdf17ee44b2d1ac5651fb12f1952c336fe23"
   integrity sha512-d5RysTlJ7hmw5Tw4UxgxcY3lkMe92n8sXCcuLPAyIAHK6j8DefDwtGnVVDgOnv+RnEosulDJ9NPKQL27bDId0g==
@@ -22,9 +23,11 @@
   integrity sha512-392byTlpGWXMv4FbyWw3sAZ/FrW/DrwqLGXpy0mbyNe9Taqv1mg9yON5/o0cnr8XYCkFTZbC1eV+c+LAROgrng==
 
 "@babel/core@^7.7.2":
+
   version "7.17.2"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.17.2.tgz#2c77fc430e95139d816d39b113b31bf40fb22337"
   integrity sha512-R3VH5G42VSDolRHyUO4V2cfag8WHcZyxdq5Z/m8Xyb92lW/Erm/6kM+XtRFGf3Mulre3mveni2NHfEUws8wSvw==
+
   dependencies:
     "@ampproject/remapping" "^2.0.0"
     "@babel/code-frame" "^7.16.7"
@@ -248,6 +251,7 @@
     "@babel/template" "^7.16.7"
     "@babel/traverse" "^7.16.8"
     "@babel/types" "^7.16.8"
+
 
 "@babel/helpers@^7.17.2":
   version "7.17.2"
@@ -871,6 +875,7 @@
   version "7.17.2"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.17.2.tgz#66f68591605e59da47523c631416b18508779941"
   integrity sha512-hzeyJyMA1YGdJTuWU0e/j4wKXrU4OMFvY2MSlaI9B7VQb0r5cxTE3EAIS2Q7Tn2RIcDkRvTA/v2JsAEhxe99uw==
+
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -929,6 +934,7 @@
   dependencies:
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
+
 
 "@rails/actioncable@^6.0.0":
   version "6.1.4"
@@ -4580,6 +4586,7 @@ minimatch@^3.0.4, minimatch@~3.0.2:
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.5.tgz#4da8f1290ee0f0f8e83d60ca69f8f134068604a3"
   integrity sha512-tUpxzX0VAzJHjLu0xUfFv1gwVp9ba3IOuRAVH2EGuRW8a5emA2FlACLqiT/lDVtS1W+TGNwqz3sWaNyLgDJWuw==
+
   dependencies:
     brace-expansion "^1.1.7"
 
